@@ -6,8 +6,8 @@
 
 Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                               |
-|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                              |
+|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|
 |      01 | Use NPD to Detect Node Problems in Kubernetes Clus... | ★★☆     | [🚀 Start Building](https://labex.io/courses/use-npd-to-detect-node-problems-in-kubernetes-clusters)                       |
 |      02 | Usage of Pod Controllers Frequently Used in Kubern... | ★★☆     | [🚀 Start Building](https://labex.io/courses/usage-of-pod-controllers-frequently-used-in-kubernetes)                       |
 |      03 | Work With Service Objects and Pod Probes in Kubern... | ★★☆     | [🚀 Start Building](https://labex.io/courses/work-with-service-objects-and-pod-probes-in-kubernetes)                       |
